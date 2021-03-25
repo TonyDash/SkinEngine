@@ -1,0 +1,4 @@
+include ':skinapk'
+include ':skinEngineLib'
+include ':app'
+rootProject.name = "SkinEngine"
